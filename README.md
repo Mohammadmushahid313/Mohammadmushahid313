@@ -37,9 +37,8 @@
 
 ## 📊 GITHUB STATS
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohammadmushahid313&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadmushahid313&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammadmushahid313&theme=radical&hide_border=true"/>
 </p>
