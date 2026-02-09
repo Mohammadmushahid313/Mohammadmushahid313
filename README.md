@@ -28,6 +28,27 @@ it is about *designing intelligence* that shapes the future.
 - Grow into a professional who delivers *impact, not noise*
 
 I believe the future belongs to those who *prepare silently and execute relentlessly*.
+## 🚀 Featured Projects
+
+### 🔹 AI-Based Cyber Attack Prediction System
+*Domain:* Artificial Intelligence, Machine Learning  
+*Description:*  
+An academic project focused on predicting potential cyber attacks using historical data and machine learning techniques.  
+The system aims to analyze patterns, detect anomalies, and support early threat identification.
+
+*Status:* In Progress  
+*Focus:* Data analysis, ML models, real-world problem understanding
+
+---
+
+### 🔹 Python Foundations & Daily Practice
+*Domain:* Core Python, Logic Building  
+*Description:*  
+A structured collection of daily Python programs covering fundamentals such as variables, loops, functions, and problem-solving logic.  
+This repository represents my commitment to *daily consistency and strong foundations*.
+
+*Status:* Ongoing  
+*Focus:* Clean code, logic clarity, consistency
 <!-- TITLE -->
 <h2 align="center" style="color:#b026ff;">
   FUTURE AI ENGINEER • AI ARCHITECT • TECHNOLOGY VISIONARY
