@@ -2,6 +2,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7f00ff&height=220&section=header&text=MOHAMMAD%20MUSHAHID&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
+## 👋 About Me
+
+I am a disciplined Python learner focused on *AI, Machine Learning, and Data Science*.  
+Currently building strong foundations through *daily practice, projects, and consistency*.  
+My goal is to become a high-impact *AI Engineer* solving real-world problems.
 
 <!-- TITLE -->
 <h2 align="center" style="color:#b026ff;">
