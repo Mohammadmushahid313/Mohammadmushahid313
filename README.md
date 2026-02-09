@@ -13,6 +13,21 @@ My approach is simple — learn deeply, build relentlessly, and operate with a l
 
 I don’t chase trends —  
 I build foundations that define the future.
+## 🎯 Vision & Mission
+
+### 🌐 Vision
+To become a *world-class AI Engineer and Architect*, building intelligent systems that operate at scale, influence decision-making, and create long-term value.
+
+My vision is not limited to writing code —  
+it is about *designing intelligence* that shapes the future.
+
+### 🛠 Mission
+- Master *Python, AI, Machine Learning, and Data Science* at a deep level  
+- Build *real-world, scalable AI systems*  
+- Develop discipline, precision, and problem-solving excellence  
+- Grow into a professional who delivers *impact, not noise*
+
+I believe the future belongs to those who *prepare silently and execute relentlessly*.
 <!-- TITLE -->
 <h2 align="center" style="color:#b026ff;">
   FUTURE AI ENGINEER • AI ARCHITECT • TECHNOLOGY VISIONARY
