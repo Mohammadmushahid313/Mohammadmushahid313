@@ -42,3 +42,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mohammadmushahid313/Mohammadmushahid313/output/github-contribution-grid-snake.svg" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohammadmushahid313&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
