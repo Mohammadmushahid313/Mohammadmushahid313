@@ -49,6 +49,24 @@ This repository represents my commitment to *daily consistency and strong founda
 
 *Status:* Ongoing  
 *Focus:* Clean code, logic clarity, consistency
+## 🧭 Roadmap / Currently Learning
+
+### 📌 Current Focus (Now)
+- 🐍 *Python (Core → Advanced)*  
+- 📊 *Data Analysis* (NumPy, Pandas)  
+- 🤖 *Machine Learning Fundamentals*  
+- 🧠 *Problem Solving & Logic Building*
+
+### 📈 Short-Term Goals (Next 3–6 Months)
+- Build *hands-on ML projects*
+- Strengthen *data preprocessing & model evaluation*
+- Improve *GitHub consistency* with daily commits
+- Develop *clean, readable, and scalable code*
+
+### 🚀 Long-Term Vision
+- Become a *high-impact AI Engineer / Architect*
+- Design *intelligent systems* that scale and create real-world value
+- Contribute to *meaningful AI-driven solutions*
 <!-- TITLE -->
 <h2 align="center" style="color:#b026ff;">
   FUTURE AI ENGINEER • AI ARCHITECT • TECHNOLOGY VISIONARY
