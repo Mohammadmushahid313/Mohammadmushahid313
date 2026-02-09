@@ -1,6 +1,6 @@
 <!-- ================== CYBERPUNK LUXURY NEON BLINK TITLE ================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&color=00FF00&center=true&vCenter=true&width=900&lines=INITIALIZING+MATRIX+MODE...;WELCOME+TO+THE+SYSTEM" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&duration=2200&pause=1500&color=00FF00&center=true&vCenter=true&width=1100&lines=MATRIX+PROTOCOL+ENGAGED;ACCESS+GRANTED" />
 </p>
 
 <p align="center">
