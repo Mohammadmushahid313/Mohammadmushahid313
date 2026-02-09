@@ -2,12 +2,17 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7f00ff&height=220&section=header&text=MOHAMMAD%20MUSHAHID&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
-## 👋 About Me
+## 👤 About Me
 
-I am a disciplined Python learner focused on *AI, Machine Learning, and Data Science*.  
-Currently building strong foundations through *daily practice, projects, and consistency*.  
-My goal is to become a high-impact *AI Engineer* solving real-world problems.
+I am *Mohammad Mushahid, a focused and disciplined **Python & AI learner* with a long-term vision of building *intelligent, high-impact systems*.
 
+I believe in *precision, consistency, and mastery over shortcuts*.  
+My approach is simple — learn deeply, build relentlessly, and operate with a long-term mindset.
+
+🚀 Currently sharpening my skills in *Artificial Intelligence, Machine Learning, and Data Science, with the goal of becoming a **top-tier AI Engineer* capable of creating systems that scale, influence, and endure.
+
+I don’t chase trends —  
+I build foundations that define the future.
 <!-- TITLE -->
 <h2 align="center" style="color:#b026ff;">
   FUTURE AI ENGINEER • AI ARCHITECT • TECHNOLOGY VISIONARY
