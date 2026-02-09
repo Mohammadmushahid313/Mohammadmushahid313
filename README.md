@@ -1,59 +1,62 @@
-<!-- CYBERPUNK LUXURY NEON BLINK TITLE -->
+<!-- ================== CYBERPUNK LUXURY NEON BLINK TITLE ================== -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=40&duration=1200&pause=600&color=9B00FF&center=true&vCenter=true&width=1600&lines=MOHAMMAD+MUSHAHID+%7C+FUTURE+AI+ARCHITECT+%26+TECH+BILLIONAIRE;MOHAMMAD+MUSHAHID+%7C+CYBERPUNK+VISIONARY+%26+ELITE+INNOVATOR" />
 </h1>
 
-<!-- SUB LUXURY TAGLINE -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=22&duration=3000&pause=2000&color=C77DFF&center=true&vCenter=true&width=1200&lines=SILENT+BUILDER+OF+A+BILLION+DOLLAR+TECH+EMPIRE" />
 </p>
 
----
-
-## 🧠 ABOUT (ELITE MINDSET)
-- 🧬 Focused on *AI, ML & Advanced Programming*
-- 🧠 Long-term thinker with *billion-dollar vision*
-- 🕶️ Cyberpunk mindset: *Build in silence, dominate later*
-- 👑 Goal: *Global-scale impact through technology*
-
----
-
-## 🌐 SOCIAL PRESENCE
+<!-- ================== LUXURY DIVIDER ================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-6F2DBD?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/"><img src="https://img.shields.io/badge/INSTAGRAM-9B00FF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YOUTUBE-4B0082?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2a003d,100:9b00ff&height=6&section=header" />
 </p>
 
----
+<!-- ================== ABOUT ================== -->
+## 🧠 ELITE MINDSET
+- 🧬 Focused on *AI, ML & Advanced Programming*
+- 👑 Long-term *billion-dollar vision*
+- 🕶️ Cyberpunk rule: *Build in silence, dominate later*
+- 🌍 Goal: *Global impact through technology*
 
-## 💎 TECH STACK (NEXT-GEN)
+<!-- ================== SOCIALS ================== -->
+## 🌐 PRESENCE
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LINKEDIN-6F2DBD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-9B00FF?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YOUTUBE-4B0082?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+</p>
+
+<!-- ================== TECH STACK ================== -->
+## 💎 NEXT-GEN TECH
 <p align="center">
   <img src="https://img.shields.io/badge/PYTHON-2E0249?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-3A0CA3?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GIT-7209B7?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GITHUB-240046?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-560BAD?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20CODE-560BAD?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
----
-
+<!-- ================== STATS ================== -->
 ## 📊 POWER STATS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammadmushahid313&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohammadmushahid313&theme=tokyonight&hide_border=true"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammadmushahid313&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 🐍 CYBERPUNK CONTRIBUTION SNAKE
+<!-- ================== CYBERPUNK SNAKE (LIGHT + DARK AUTO) ================== -->
+## 🐍 CYBERPUNK SNAKE
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -65,9 +68,7 @@
   </picture>
 </p>
 
----
-
-<!-- PROFILE VIEWS -->
+<!-- ================== PROFILE VIEWS ================== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohammadmushahid313&label=PROFILE+VIEWS&color=9B00FF&style=flat-square"/>
 </p>
