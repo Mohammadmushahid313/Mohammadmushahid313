@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohammad Mushahid</h1>
-<h3 align="center">Python Learner | Future AI Engineer</h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Hi+I'm+Mohammad+Mushahid;Python+Learner;Future+AI+Engineer;Learning+Every+Day" />
+</h1>
 ---
 
 ## 🌐 Socials
