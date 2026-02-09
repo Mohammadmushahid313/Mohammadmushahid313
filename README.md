@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=36&duration=1000&pause=500&color=9B30FF&center=true&vCenter=true&width=1200&lines=MOHAMMAD+MUSHAHID+%7C+FUTURE+AI+ARCHITECT+%26+TECH+LEADER;MOHAMMAD+MUSHAHID+%7C+FUTURE+AI+ARCHITECT+%26+TECH+LEADER" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=36&duration=1200&pause=500&color=BB33FF&center=true&vCenter=true&width=1500&lines=MOHAMMAD+MUSHAHID+%7C+FUTURE+AI+OVERLORD+%26+TECH+MOGUL;MOHAMMAD+MUSHAHID+%7C+SILENT+BUILDER+OF+A+BILLION+DOLLAR+EMPIRE" />
 </h1>
 ---
 
