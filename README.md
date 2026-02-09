@@ -1,6 +1,9 @@
 <!-- ================== CYBERPUNK LUXURY NEON BLINK TITLE ================== -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=40&duration=1200&pause=600&color=9B00FF&center=true&vCenter=true&width=1600&lines=MOHAMMAD+MUSHAHID+%7C+FUTURE+AI+ARCHITECT+%26+TECH+BILLIONAIRE;MOHAMMAD+MUSHAHID+%7C+CYBERPUNK+VISIONARY+%26+ELITE+INNOVATOR" />
+</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=26&duration=2200&pause=1500&color=00FF00&center=true&vCenter=true&width=1100&lines=MATRIX+PROTOCOL+ENGAGED;ACCESS+GRANTED" />
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="800"/>
 </p>
 
 <p align="center">
